@@ -1,0 +1,9 @@
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\bin\Debug\Level2.exe.config
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\bin\Debug\Level2.exe
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\bin\Debug\Level2.pdb
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\obj\Debug\Level2.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\obj\Debug\Level2.Form1.resources
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\obj\Debug\Level2.Properties.Resources.resources
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\obj\Debug\Level2.csproj.GenerateResource.Cache
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\obj\Debug\Level2.exe
+C:\Users\ralph\Desktop\C#\Array\ToetsLevel2\Level2\Level2\obj\Debug\Level2.pdb
